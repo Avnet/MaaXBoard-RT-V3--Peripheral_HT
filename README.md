@@ -15,7 +15,7 @@ Application demonstrating the BLE Peripheral role, except that this application 
 
 ## MaaXBoard-rt-board 
 
-[<img align="right" src="https://www.avnet.com/wps/wcm/connect/onesite/613510a3-9e14-4827-b6aa-476d3bd4cf80/TNN19189+-+web+optimized.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-613510a3-9e14-4827-b6aa-476d3bd4cf80-nNopqOn">](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-rt/)
+[<img align="right" src="./images/MaaXBoardRT.jpg">](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-rt/)
 - NXP i.MX RT1176 Processor
 - Arm Cortex-M7 @1GHz, 32KB/32KB L1 Cache
 - Arm Cortex-M4F @400MHz, 16KB/16KB L1 Cache
