@@ -6,12 +6,15 @@
 /*
  * TEXT BELOW IS USED AS SETTING FOR TOOLS *************************************
 !!GlobalInfo
-product: Pins v10.0
+product: Pins v9.0
 processor: MIMXRT1176xxxxx
 package_id: MIMXRT1176DVMAA
 mcu_data: ksdk2_0
-processor_version: 10.0.0
+processor_version: 9.0.3
 board: MIMXRT1170-EVK
+pin_labels:
+- {pin_num: T1, pin_signal: GPIO_EMC_B2_06, label: LIGHTRANGER_EN, identifier: SEMC_D22}
+- {pin_num: K3, pin_signal: GPIO_EMC_B2_02, label: LIGHTRANGER_INT, identifier: SEMC_D18}
  * BE CAREFUL MODIFYING THIS COMMENT - IT IS YAML SETTINGS FOR TOOLS ***********
  */
 
