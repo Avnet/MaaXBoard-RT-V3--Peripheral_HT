@@ -67,7 +67,7 @@ To view the thermometer reading on your device:
 2. Select Thermometer.<br><br><img src="./images/Thermometer.png" width="190"/>
 3. Press Scan. if already scanning, press stop and then Scan<br><br><img src="./images/Scan.png" width="190"/>
 4. Select the peripheral_ht device once it apears.<br><br><img src="./images/Device.png" width="190"/>
-5. Temperature readings will begin to cycle.<br><br><img src="./images/Device.png" width="190"/>
+5. Temperature readings will begin to cycle.<br><br><img src="./images/Reading.png" width="190"/>
 
 # Reference
 
