@@ -32,10 +32,14 @@ Application demonstrating the BLE Peripheral role, except that this application 
 [<img width="400" src="https://www.nxp.com/assets/images/en/dev-board-image/MCU-LINK-TOP.jpg">](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-rt/)
 
 ## A device running IoT Toolbox from NXP
+The IoT Toolbox is a mobile application developed by NXP Semiconductors. It is 
+designed for Android™ and iOS™ handheld devices.
+<br>iOS: iPhone and iPad on the [App Store](https://apps.apple.com/us/app/id1362450908?mt=8)
+<br>Android: phone and tablet versions on [Google Play](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiV5ebUk4T0AhXdFzQIHRnRCGUQFnoECAgQAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.freescale.kinetisbletoolbox%26hl%3Den_US%26gl%3DUS&usg=AOvVaw3JAMU4O9yYWn7E6J4zX1xx)
+<br>IoT Toolbox can be downloaded freely wherever you get your apps.
 
-IoT Toolbox can be downloaded freely wherever you get your apps.
 
-<img src="./images/IoTToolbox.png" width="190"/>
+<br><img src="./images/IoTToolbox.png" width="190"/>
 
 
 # Preparing the Demo
@@ -72,3 +76,5 @@ To view the thermometer reading on your device:
 # Reference
 
 * [MaaXBoard-rt](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-rt/)
+* [UM11087 IoT Toolbox Mobile Application User Manual](https://www.nxp.com/docs/en/user-guide/KBLETMAUG.pdf)<br> Note: This manual does not reflect the latest chages to the IoT Toolbox mobile application.
+
